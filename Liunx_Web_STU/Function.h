@@ -7,6 +7,7 @@
 #include<string>
 extern int TCP_Server();
 extern int UDP_Server();
+extern int Test();
 
 struct Client {
 	std::string name;

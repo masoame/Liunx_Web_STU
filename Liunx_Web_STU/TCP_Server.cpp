@@ -1,10 +1,7 @@
 #include"Function.h"
-
 #include<iostream>
 #include<string.h>
-
 #include<sys/epoll.h>
-#include<netinet/in.h>
 #include<map>
 
 #define Connect_MAX (1024)
